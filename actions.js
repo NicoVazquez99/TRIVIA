@@ -1,0 +1,8 @@
+export const CHANGE_LOADING = 'CHANGE_LOADING';
+export const SET_QUESTIONS = 'SET_QUESTIONS';
+export const SET_INDEX = 'SET_INDEX';
+export const SET_SCORE = 'SET_SCORE';
+export const CHANGE_CATEGORY = 'CHANGE_CATEGORY';
+export const CHANGE_DIFFICULTY = 'CHANGE_DIFFICULTY';
+export const CHANGE_TYPE = 'CHANGE_TYPE';
+export const CHANGE_AMOUNT = 'CHANGE_AMOUNT';
